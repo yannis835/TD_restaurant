@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TD1</string>
+    <string name="main">Plats</string>
+    <string name="buttonEntree">Entree</string>
+    <string name="ButtonPlat">Plat</string>
+    <string name="buttonDessert">Dessert</string>
+    <string name="settings">Settings</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
